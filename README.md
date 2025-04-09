@@ -1,5 +1,6 @@
+# BREADTH-FIRST-SEARCH
 <h1>ExpNo 3 : Implement Breadth First Search Traversal of a Graph</h1> 
-<h3>Name: Jayabharathi S</h3>
+<h3>Name: JAYABHARATHI S </h3>
 <h3>Register Number: 212222100013</h3>
 <H3>Aim:</H3>
 <p>To Implement Breadth First Search Traversal of a Graph using Python 3.</p>
@@ -68,7 +69,7 @@ Now, Queue becomes empty, So, terminate these process of iteration.
 </ol>
 
 ## Program:
-```python
+```
 from collections import deque
 from collections import defaultdict
 
@@ -115,10 +116,11 @@ D G <BR>
 G F <BR>
 
 <h3>Sample Output</h3>
-![image](https://github.com/user-attachments/assets/8d577c56-cced-4ded-9207-0dfe5056f387)
 
+![image](https://github.com/user-attachments/assets/07fdf91a-5574-47e0-9f37-c27c78645dff)
 
 <h3>Sample Input</h3>
+
 5 6 <BR>
 0 1 <BR>
 0 2 <BR>
@@ -128,9 +130,9 @@ G F <BR>
 3 4 <BR>
 
 <h3>Sample Output</h3>
-![image](https://github.com/user-attachments/assets/e8b27263-b7b4-4daa-b3f3-fcd17004b2d0)
+
+![image](https://github.com/user-attachments/assets/5897144a-34cf-4e92-9de0-72654bab93ce)
 
 <h3>Result:</h3>
+
 <p>Thus,a Graph was constructed and implementation of Breadth First Search for the same graph was done successfully.</p>
-
-
