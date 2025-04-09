@@ -115,11 +115,10 @@ D G <BR>
 G F <BR>
 
 <h3>Sample Output</h3>
-![image](https://github.com/user-attachments/assets/f7ed4547-7558-4405-ab13-a9c442154ea7)
+![image](https://github.com/user-attachments/assets/8d577c56-cced-4ded-9207-0dfe5056f387)
 
 
 <h3>Sample Input</h3>
-
 5 6 <BR>
 0 1 <BR>
 0 2 <BR>
@@ -129,7 +128,7 @@ G F <BR>
 3 4 <BR>
 
 <h3>Sample Output</h3>
-![image](https://github.com/user-attachments/assets/0ed62572-d8b5-44ba-b10b-520551615479)
+![image](https://github.com/user-attachments/assets/e8b27263-b7b4-4daa-b3f3-fcd17004b2d0)
 
 <h3>Result:</h3>
 <p>Thus,a Graph was constructed and implementation of Breadth First Search for the same graph was done successfully.</p>
